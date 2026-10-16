@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+*.swp
+*~
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+node_modules/
